@@ -5,8 +5,8 @@ Self-Driving Car Engineer Nanodegree Program
 The goal of this project is to build a path planner that creates smooth, safe trajectories for the car to follow. The highway track has other vehicles, all going different speeds, but approximately obeying the 50 MPH speed limit. The car transmits its location, along with its sensor fusion data, which estimates the location of all the vehicles on the same side of the road.
 
 
-## Rubric Points
-Each of the rubric points given in project specifications are discussed below.
+## Features of project
+
 
 #### Compilation
 The code compiles without any errors.
@@ -42,3 +42,5 @@ The fitted curve is then used to generate equally spaced points (depending upon 
 Note:
 * Before points from spline are pushed, previous path points are pushed to ensure continuity (lines 461 - 465).
 * Speed is regulated cycle to cycle (lines 476 - 481).
+
+git clone:-https://github.com/neelgandhi108/selfdrivingcar_path-planning.git
